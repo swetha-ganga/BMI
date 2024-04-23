@@ -1,0 +1,45 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+body{
+    background-image: url(./asset/gif1.webp);
+    background-size: cover; 
+    
+    background-repeat: no-repeat;
+}
+
+
+
+.animal{
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    border-radius: 30px;
+    background-color:rgba(176, 164, 147, 0.478);
+    margin-top: 100px;
+    margin-left: 500px;
+    padding: 40px;
+}
+input{
+    border-radius: 20px;
+    border: none;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 0px 0px 10px red inset;
+}
+h2{
+    margin-bottom:40px;
+    color: aliceblue;
+    text-shadow: 0px 0px 5px red;
+}
+.button{
+    width: 100px;
+    border-radius: 10px;
+    padding: 5px;
+    border: none;
+    background-color: whitesmoke;
+    box-shadow: 0px 0px 5px yellowgreen inset;
+}
